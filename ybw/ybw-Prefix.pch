@@ -1,0 +1,21 @@
+//
+//  ybw-Prefix.pch
+//  ybw
+//
+//  Created by 図師ともみ on 2016/04/13.
+//  Copyright © 2016年 Manhattan-Code Inc. All rights reserved.
+//
+
+#ifndef ybw_Prefix_pch
+#define ybw_Prefix_pch
+
+// web view
+#define QA_URL @"http://moecore.com/";
+
+
+
+
+
+
+
+#endif /* ybw_Prefix_pch */
